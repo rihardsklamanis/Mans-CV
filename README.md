@@ -14,9 +14,9 @@ Rihards Klamanis
 
 # Hobiji
 
-*_Datorspēles_
-*_Mājdzīvnieki_
-*_Filmas_
+* _Datorspēles_
+* _Mājdzīvnieki_
+* _Filmas_
 
 # Pieredze programmēšanā
 
