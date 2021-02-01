@@ -1,7 +1,7 @@
 # Mans-CV
 
 Rihards Klamanis | ![](IMG_20210201_150835.jpg)
-
+---------------- | ----------------------------
 
 # Izglītība
 1. _Rigas Lietuviešu vidusskola (2011-2015)_
