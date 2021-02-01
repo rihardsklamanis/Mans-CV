@@ -18,6 +18,7 @@ Rihards Klamanis | ![](IMG_20210201_150835.jpg)
 * _Datorspēles_
 * _Mājdzīvnieki_
 * _Filmas_
+* _Programmēšana_
 
 # Pieredze programmēšanā
 
