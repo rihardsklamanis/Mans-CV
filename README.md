@@ -2,6 +2,7 @@
 
 Rihards Klamanis
 
+
 # Izglītība
 1. _Rigas Lietuviešu vidusskola (2011-2015)_
 2. _Andreja Pumpura Rīgas 11. Pamatskola (2015-2020)_
@@ -20,5 +21,5 @@ Rihards Klamanis
 
 # Pieredze programmēšanā
 
-*_HelloIT programmešanas valodas JAVA kursi (2019 gads)_
+* _HelloIT programmešanas valodas JAVA kursi (2019 gads)_
 
